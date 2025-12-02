@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on 42 Common Core Cursus - Milestone 0 - libft<br>👯 I’m looking to collaborate on -<br>🤝 I’m looking for help with -<br>🌱 I’m currently learning C!<br>💬 Ask me about -<br>⚡ Fun fact: Facts are fun
+🔭 I’m currently working on 42 Common Core Cursus<br>👯 I’m looking to collaborate on -<br>🤝 I’m looking for help with -<br>🌱 I’m currently learning C!<br>💬 Ask me about -<br>⚡ Fun fact: Facts are fun
 
 
 ## 🌐 Socials:
